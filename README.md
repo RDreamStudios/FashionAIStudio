@@ -32,5 +32,5 @@ FashionAIStudio is a virtual fashion design platform that leverages the capabili
 
 ## Contact
 
-📧 For any inquiries or feedback, please contact us at fashionaistudio@example.com. We'd love to hear from you!
+📧 For any inquiries or feedback, please contact us at rdreamstd@gmail.com. We'd love to hear from you!
 
