@@ -8,19 +8,40 @@ FashionAIStudio is a virtual fashion design platform that leverages the capabili
 
 ## Usage
 
-- Run [`fashion_ai_studio.ipynb`](link-to-colab) to start creating your own fashion designs!
+-   Run [`FashionAIStudio.ipynb`](https://colab.research.google.com/github/RDreamStudios/FashionAIStudio/blob/main/FashionAIStudio.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RDreamStudios/FashionAIStudio/blob/main/FashionAIStudio.ipynb) to start creating your own fashion designs!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link-to-colab)
+## Features
+
+🎨 **Creative Design Generation**: Utilize advanced generative AI models to create original and stylish fashion designs.
+
+👚 **Customization Options**: Customize your designs by adjusting parameters such as colors, patterns, and styles to create unique fashion statements.
+
+🤖 **AI-Powered Recommendations**: Receive personalized fashion recommendations based on your preferences and style preferences.
+
+📷 **Visualize Designs**: Visualize your fashion designs in real-time and explore how they look from different angles and perspectives.
 
 ## Results
-
-![Fashion Design 1](images/fashion_design_1.jpg)
-![Fashion Design 2](images/fashion_design_2.jpg)
-![Fashion Design 3](images/fashion_design_3.jpg)
-
+<img alt="Test 1" src="https://github.com/RDreamStudios/FashionAIStudio/assets/139819118/c4f77bae-c5d5-4d7c-aba4-02cd8a241201" width="256">
+<img alt="Test 2" src="https://github.com/RDreamStudios/FashionAIStudio/assets/139819118/3c1aff25-ea8d-4862-97ed-ac36f4e0109e" width="256">
+<img alt="Test 3" src="https://github.com/RDreamStudios/FashionAIStudio/assets/139819118/d33d29d1-f2f0-4c58-89f0-d8c733cddc5e" width="256">
+<p></p>
 <sub>
 Different fashion designs generated with FashionAIStudio using various prompts.
 </sub>
+
+---
+
+## Contribution
+
+🚀 Contributions to FashionAIStudio are welcome! Whether you're interested in adding new features, fixing bugs, or improving documentation, feel free to fork the repository and submit a pull request.
+
+## License
+
+📝 This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code for personal or commercial purposes. Attribution is appreciated but not required.
+
+## Contact
+
+📧 For any inquiries or feedback, please contact us at rdreamstd@gmail.com. We'd love to hear from you!
 
 ## References
 
