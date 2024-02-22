@@ -39,3 +39,5 @@ FashionAIStudio is a virtual fashion design platform that leverages the capabili
 
 📧 For any inquiries or feedback, please contact us at rdreamstd@gmail.com. We'd love to hear from you!
 
+[colab-notebook-stable-diffusion]: <https://colab.research.google.com/github/RDreamStudios/FashionAIStudio/blob/main/FashionAIStudio.ipynb\>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
