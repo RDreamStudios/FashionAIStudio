@@ -6,6 +6,11 @@
 
 FashionAIStudio is a virtual fashion design platform that leverages the capabilities of generative AI models to generate unique and creative fashion designs. Users can interact with the platform to explore different styles, experiment with colors and patterns, and generate personalized fashion designs tailored to their preferences.
 
+## Usage
+
+-   Run [`FashionAIStudio.ipynb`][colab-notebook-stable-diffusion].
+[![Open In Colab][colab-badge]][colab-notebook-stable-diffusion]
+
 ## Features
 
 🎨 **Creative Design Generation**: Utilize advanced generative AI models to create original and stylish fashion designs.
